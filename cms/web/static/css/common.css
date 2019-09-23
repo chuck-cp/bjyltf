@@ -1,0 +1,41 @@
+/*backend common css*/
+.fm{
+    width: 105px;display: inline-block;
+}
+.left15{
+    margin-left: 15px;
+}
+.top15{
+    margin-top: 15px;
+}
+.mleft{
+    margin-left: 10px;
+}
+.mleft16{
+    margin-left: 16px;
+}
+.mtop{
+    margin-top: 20px;
+}
+.t-middle{
+    text-align: center;
+}
+.fl{float: left;}
+.mtop22{
+    margin-top: 22px;
+}
+.weight{
+    font-weight: 700;
+}
+.not{color: #cccccc;}
+.halo:hover{-webkit-transition:border linear .2s,-webkit-box-shadow linear .5s;
+    border-color:rgba(141,39,182,.75);
+    -webkit-box-shadow:0 0 18px rgba(111,1,32,3); }
+.special{
+    width:170px;display: inline-block;
+}
+.special_sec{
+    width:270px;display: inline-block;
+}
+.left-middle{ display: flex;align-items: center;justify-content: center; }
+.cursor{cursor: pointer;}

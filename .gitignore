@@ -1,0 +1,23 @@
+/.idea
+#/cms/config/main-local.php
+/common/config/main-local.php
+/cms/runtime
+/cms/runtime/logs
+/cms/runtime/debug
+/console/runtime/logs
+/cms/web/assets
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+# My configurations:
+db.ini
+deploy_key_rsa

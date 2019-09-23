@@ -1,0 +1,24 @@
+{
+    "require": {
+      "yiisoft/yii2-debug": "^2.0",
+      "gmars/yii2-sms": "dev-master",
+      "abhi1693/yii2-sms": "2.0.0",
+      "kartik-v/yii2-widget-datetimepicker": "*",
+      "yidashi/yii2-uploader": "*",
+      "kucha/ueditor": "*",
+      "2amigos/yii2-date-picker-widget": "^1.0",
+      "stomp-php/stomp-php": "4.*",
+      "yii2tech/csv-grid": "^1.0",
+      "mito/yii2-sentry": "~1.0.0",
+        "moonlandsoft/yii2-phpexcel": "*"
+    },
+    "require-dev": {
+        "yiisoft/yii2-gii": "^2.0"
+    },
+  "repositories" : {
+    "packagist" : {
+      "type":"composer",
+      "url":"https://packagist.phpcomposer.com"
+    }
+  }
+}
